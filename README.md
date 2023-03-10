@@ -1,8 +1,12 @@
+<a href="https://github.com/gouravtiwari04?tab=followers">
+    <img src="https://img.shields.io/github/followers/gouravtiwari04?label=Followers&style=social" alt="GitHub Badge"></a>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hii+👋+from+Gourav Tiwari !;Aspiring+Full+Stack+Web+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
 
+## 🙋‍♂️ About Me
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="400" height="280" style=" padding:2%" />
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://gouravtiwari04.github.io/](https://gouravtiwari04.github.io/)
