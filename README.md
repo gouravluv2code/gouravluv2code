@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gt9675tiwari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OdiqR_I0GrlsxnHug36fZLFJy_dn-bhC/view?usp=sharing](https://drive.google.com/file/d/1OdiqR_I0GrlsxnHug36fZLFJy_dn-bhC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zS3ThLIIqZ5I7d_nKE8Fp5qyFNZ9FGlj/view?usp=sharing](https://drive.google.com/file/d/1zS3ThLIIqZ5I7d_nKE8Fp5qyFNZ9FGlj/view?usp=sharing)
 
 
 ## 🌐 Socials
