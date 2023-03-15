@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="400" height="280" style=" padding:2%" />
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://gouravluv2code.github.io/](https://gouravtiwari04.github.io/)
+- 👨‍💻 All of my projects are available at [https://gouravluv2code.github.io/](https://gouravluv2code.github.io/)
 
 - 💬 Ask me about **JavaScript,HTML,CSS,React,NodeJS,MongoDB**
 
